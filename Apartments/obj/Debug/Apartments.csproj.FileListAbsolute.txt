@@ -1,0 +1,14 @@
+C:\Users\den\source\repos\Apartments\Apartments\bin\Debug\Apartments.exe.config
+C:\Users\den\source\repos\Apartments\Apartments\bin\Debug\Apartments.exe
+C:\Users\den\source\repos\Apartments\Apartments\bin\Debug\Apartments.pdb
+C:\Users\den\source\repos\Apartments\Apartments\obj\Debug\Apartments.csprojAssemblyReference.cache
+C:\Users\den\source\repos\Apartments\Apartments\obj\Debug\Apartments.csproj.CoreCompileInputs.cache
+C:\Users\den\source\repos\Apartments\Apartments\obj\Debug\Apartments.exe
+C:\Users\den\source\repos\Apartments\Apartments\obj\Debug\Apartments.pdb
+C:\Users\den\Desktop\Apartments\Apartments\bin\Debug\Apartments.exe.config
+C:\Users\den\Desktop\Apartments\Apartments\bin\Debug\Apartments.exe
+C:\Users\den\Desktop\Apartments\Apartments\bin\Debug\Apartments.pdb
+C:\Users\den\Desktop\Apartments\Apartments\obj\Debug\Apartments.csprojAssemblyReference.cache
+C:\Users\den\Desktop\Apartments\Apartments\obj\Debug\Apartments.csproj.CoreCompileInputs.cache
+C:\Users\den\Desktop\Apartments\Apartments\obj\Debug\Apartments.exe
+C:\Users\den\Desktop\Apartments\Apartments\obj\Debug\Apartments.pdb

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<DataBase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <List>
+    <Appart>
+      <District>rrrrrrrr</District>
+      <Square>333</Square>
+      <Rooms>3</Rooms>
+      <Floor>3</Floor>
+      <Phone>false</Phone>
+      <Price>65356</Price>
+    </Appart>
+  </List>
+</DataBase>
